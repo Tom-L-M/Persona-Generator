@@ -1,3 +1,5 @@
+# PERSONA-GENERATOR JS
+
 A very simple tool for creating personas. 
 
 Just download the proper zipped binary from /resources, extract, and execute it. 
