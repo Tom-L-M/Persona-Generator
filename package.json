@@ -1,0 +1,28 @@
+{
+  "name": "persona-generator",
+  "version": "1.0.1",
+  "description": "A JavaScript web fetcher and data compiler, to generate a 'persona'",
+  "main": "generate-persona.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tom-L-M/persona-generator.git"
+  },
+  "keywords": [
+    "persona",
+    "generator",
+    "javascript",
+    "js",
+    "web",
+    "data",
+    "fetching"
+  ],
+  "author": "Tom-L-M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tom-L-M/persona-generator/issues"
+  },
+  "homepage": "https://github.com/Tom-L-M/persona-generator#readme"
+}
