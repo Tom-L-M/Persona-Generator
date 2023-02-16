@@ -1,6 +1,6 @@
 A very simple tool for creating personas. 
 
-Just download the proper binary from /resources, and execute it. 
+Just download the proper zipped binary from /resources, extract, and execute it. 
 You will be prompted with some basic questions as creation guidelines.
 Respond the ones you want, and leav the ones you don't to be randomized.
 
